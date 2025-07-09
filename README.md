@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Laya R</h1>
-<h3 align="center">ISE undergraduate</h3>
+<h3 align="center">ISE undergraduated</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=laya11112002&label=Profile%20views&color=0e75b6&style=flat" alt="laya11112002" /> </p>
 
